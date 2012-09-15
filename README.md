@@ -2,7 +2,6 @@ KindlePage
 ===
 
 Calculate the current page of your Kindle ebook to update your Goodreads status
----
 
 Requirements
 ---
